@@ -10,3 +10,12 @@ Likewise, malicious network activity, such as port scanning or Denial-of-Service
   <img src="pictures/workflow.png" width="800"> 
   </p>
 </div>
+
+
+## TCP Three-Way Handshake
+
+![image](https://github.com/user-attachments/assets/35c7f64d-c6db-4fba-ab53-ef1926a9a442)
+
+
+## TCP Session Teardown
+
