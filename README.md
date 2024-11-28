@@ -18,4 +18,5 @@ Likewise, malicious network activity, such as port scanning or Denial-of-Service
 
 
 ## TCP Session Teardown
+![image](https://github.com/user-attachments/assets/d19c4e4b-4d39-4f4d-a6b0-46c52538045d)
 
