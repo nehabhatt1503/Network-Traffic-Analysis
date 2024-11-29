@@ -4,8 +4,6 @@ Wireshark is a free and open-source network traffic analyzer capable of capturin
 
 ## ⭐ Wireshark GUI
 
-![image](https://github.com/user-attachments/assets/998f1e48-64a3-4f9b-afeb-aa8f6c1151fc)
-
 <details>
 <summary>Packet List</summary>
 <h6>In this window, we see a summary line of each packet that includes the fields listed below by default. We can add or remove columns to change the information presented. </h6> 
@@ -18,6 +16,14 @@ Wireshark is a free and open-source network traffic analyzer capable of capturin
 <p>6. Information- Information about the packet. This field can vary based on the type of protocol used within. It will show, for example, what type of query It is for a DNS packet. </p>
 
 </details>
+
+![image](https://github.com/user-attachments/assets/998f1e48-64a3-4f9b-afeb-aa8f6c1151fc)
+
+---
+
+<details>
+<summary>Packet Details</summary>
+<h6>The Packet Details window allows us to drill down into the packet to inspect the protocols with greater detail.</h6> 
 
 ![image](https://github.com/user-attachments/assets/2feca1d7-a9cf-4c69-88c1-c1b5bbb4d73e)
 
