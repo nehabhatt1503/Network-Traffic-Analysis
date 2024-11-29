@@ -8,13 +8,13 @@ Wireshark is a free and open-source network traffic analyzer capable of capturin
 
 <details>
 <summary>Packet List</summary>
-<p> In this window, we see a summary line of each packet that includes the fields listed below by default. We can add or remove columns to change the information presented. </p> 
-< Number- Order the packet that arrived in Wireshark > 
-+ Time- Unix time format /
-+ Source- Source IP /
-+ Destination- Destination IP /
-+ Protocol- The protocol used (TCP, UDP, DNS, ETC.) /
-+ Information- Information about the packet. This field can vary based on the type of protocol used within. It will show, for example, what type of query It is for a DNS packet.
+<h7>In this window, we see a summary line of each packet that includes the fields listed below by default. We can add or remove columns to change the information presented. </h7> 
+<p> Number- Order the packet that arrived in Wireshark </p> 
+<p> Time- Unix time format </p>
+<p> Source- Source IP </p>
+<p> Destination- Destination IP </p>
+<p> Protocol- The protocol used (TCP, UDP, DNS, ETC.) </p>
+<p> Information- Information about the packet. This field can vary based on the type of protocol used within. It will show, for example, what type of query It is for a DNS packet. </p>
 
 </details>
 
