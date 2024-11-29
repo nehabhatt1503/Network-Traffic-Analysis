@@ -30,7 +30,12 @@ Wireshark is a free and open-source network traffic analyzer capable of capturin
 
 ---
 
+
+<details>
+<summary>Packet Bytes</summary>
+<h6>The Packet Bytes window allows us to look at the packet contents in ASCII or hex output.</h6> 
+</details>
 ![image](https://github.com/user-attachments/assets/c17fae9b-39b3-4482-8a1d-ac0f72e7ed14)
 
-
+---
 
