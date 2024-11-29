@@ -9,7 +9,7 @@ Wireshark is a free and open-source network traffic analyzer capable of capturin
 <details>
 <summary>Packet List</summary>
 <p> In this window, we see a summary line of each packet that includes the fields listed below by default. We can add or remove columns to change the information presented. </p> 
-+ Number- Order the packet that arrived in Wireshark /
+<h2>+ Number- Order the packet that arrived in Wireshark </h2> 
 + Time- Unix time format /
 + Source- Source IP /
 + Destination- Destination IP /
