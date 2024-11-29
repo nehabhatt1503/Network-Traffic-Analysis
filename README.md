@@ -3,7 +3,7 @@ Network traffic analysis is the process of monitoring and inspecting network tra
 Likewise, malicious network activity, such as port scanning or Denial-of-Service (DoS) attacks, often creates unusual traffic patterns. By detecting anomalies, organizations can identify potential security risks, and then block them before a breach occurs.
 
 
-## WorkFLow
+## WorkFlow
 
 <div>
   <p align="center">
