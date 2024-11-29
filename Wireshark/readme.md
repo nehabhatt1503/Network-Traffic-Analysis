@@ -1,10 +1,21 @@
 # Wireshark
+Wireshark is a free and open-source network traffic analyzer capable of capturing live data off many different interface types (including WiFi, USB, and Bluetooth) and saving the traffic to several different formats.
 
 
+## ⭐ Wireshark GUI
 
-## Wireshark GUI
-![image](https://github.com/user-attachments/assets/b9d31908-93f6-496a-9007-79efada30990)
+![image](https://github.com/user-attachments/assets/998f1e48-64a3-4f9b-afeb-aa8f6c1151fc)
 
+<details>
+<summary>Packet List</summary>
+* In this window, we see a summary line of each packet that includes the fields listed below by default. We can add or remove columns to change what information is presented.
+ + Number- Order the packet arrived in Wireshark
++ Time- Unix time format
++ Source- Source IP
++ Destination- Destination IP
++ Protocol- The protocol used (TCP, UDP, DNS, ETC.)
++ Information- Information about the packet. This field can vary based on the type of protocol used within. It will show, for example, what type of query It is for a DNS packet.
+</details>
 
 ![image](https://github.com/user-attachments/assets/2feca1d7-a9cf-4c69-88c1-c1b5bbb4d73e)
 
