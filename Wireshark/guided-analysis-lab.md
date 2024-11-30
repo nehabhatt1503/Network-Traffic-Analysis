@@ -12,6 +12,7 @@
 
 
 3. What was the suspicious port that was being used?
+4. 
 ![image](https://github.com/user-attachments/assets/57317c0b-c454-46eb-9aab-8e29c844eb77)
 
 ---
